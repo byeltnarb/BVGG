@@ -23,7 +23,7 @@ A fun, interactive desktop app that helps users guess the location of Bible vers
 
 ## 📦 Download & Play (Windows)
 
-### 👉 [Click here to download the latest version](https://github.com/YOUR_USERNAME/BVGG/releases/latest)
+### 👉 [Click here to download the latest version](https://github.com/byeltnarb/BVGG/releases/latest)
 
 1. Download the `.zip` file from the latest release
 2. Extract the folder
